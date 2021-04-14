@@ -1,4 +1,4 @@
-# Snake-Water-and-Gun-Game-
+# Snake-Water-and-Gun-Game-Using-Java
 Java Mini Project
 
 Yeah!!!
