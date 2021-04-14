@@ -23,9 +23,9 @@ Gun vs. Snake: Gun will kill the snake and win.
 
 In situations where both players choose the same object, the result will be a drawn.
 
-You can choose how many match series do you want to play at the beginning to the code and at the end, the final result displays.
+You can choose how many match series do you want to play at the beginning of the game and at the end, the final result displays.
 
-All the best !
+All the best !!
 
 Thank you 
 
